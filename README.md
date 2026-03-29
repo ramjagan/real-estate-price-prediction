@@ -4,6 +4,8 @@ End-to-end exploratory data analysis and regression modeling project for residen
 CAPSTONE ASSIGNMENT 20.1 - RESULTS SUMMARY
 ================================================================================
 
+[View Notebook](Capstone_20_1_EDA_Real_Estate_Price_Prediction.ipynb)
+
 📊 RESEARCH QUESTION:
 Can ML models using Zillow market data predict residential real estate prices
 and identify undervalued homes?
